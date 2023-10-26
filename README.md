@@ -33,12 +33,4 @@ If you would like to contribute to this project, please open an issue or a pull 
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
-## Author
-- [Satuluru Guru Sai Prasad](https://github.com/gurusaiprasad16)
-
-## Contact
-If you have any questions or suggestions, feel free to contact the author at [s.gurusaiprasad@gmail.com].
-
-------
-
 Feel free to customize the README to include specific details about your project, such as how to set up the development environment, any additional features, or acknowledgements for third-party libraries you've used.
